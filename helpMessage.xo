@@ -1,0 +1,25 @@
+
+
+Create Add To Cart Links
+Command: !ATC (producturl)
+Creates ATC Links for item on a shopify site
+
+Shopify Site?
+Command: !IsShopify (site url)
+Tells If A Website Runs On Shopify
+
+Get products
+Command: !getproducts (pageurl)
+Scrapes products off shopify site creates atc links and everything
+
+Online?
+Command: !online? (site link)
+Tells if a website is online
+
+Supreme Week
+Command: !SupremeWeek
+Returns the items of the latest supreme week
+
+Creator
+Command: !Creator
+Returns Info About XO
